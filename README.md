@@ -1,2 +1,5 @@
 # LearnGit
-A Sample tutorial for learning git
+A Sample tutorial to learning git
+
+
+Adding some more text.
